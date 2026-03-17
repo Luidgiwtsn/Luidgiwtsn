@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Luidgi
 
-<!--
-**Luidgiwtsn/Luidgiwtsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=Luidgiwtsn&color=blue)
 
-Here are some ideas to get you started:
+💻 Développeur junior passionné par le web et le backend.  
+🎯 Objectif : devenir développeur full-stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 À propos de moi
+- 🔭 Je travaille sur des projets web et backend (Python, API, bases de données)  
+- 🌱 J’apprends les technologies backend, API REST et le développement full-stack  
+- ⚡ Intéressé par la modélisation de bases de données et la conception d’API  
+- 🎓 Toujours en apprentissage et amélioration continue  
+
+---
+
+## 🛠️ Stack technique
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## 📌 Projets
+- 🔹 **W3C Validator** : Script Python pour valider des fichiers HTML et CSS  
+- 🔹 **Airbnb Database** : Diagramme ER + SQL pour la modélisation d’une base de données  
+- 🔹 **API Python** : Projet backend simple avec Flask (routes pour utilisateurs et logements)
+
+*(Chaque projet possède son propre README détaillé avec instructions et démo)*
+
+---
+
+## 📈 Stats GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luidgiwtsn&show_icons=true&theme=dark)
+
+---
+
+## 📫 Contact
+- ✉️ Email : luidgiwtsn@gmail.com  
+- 🔗 [Mon GitHub](https://github.com/Luidgiwtsn)  
+
+---
+
+🔥 *Toujours en train d’apprendre et de construire de nouveaux projets !*
