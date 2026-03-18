@@ -39,7 +39,7 @@
 ---
 
 ## 📫 Contact
-- ✉️ Email : luidgiwtsn@gmail.com  
+- ✉️ Email : lwbordeaux@gmail.com  
 - 🔗 [Mon GitHub](https://github.com/Luidgiwtsn)
 - 🔗 [mon linkedin](https://www.linkedin.com/in/luidgi-watson/)
 
