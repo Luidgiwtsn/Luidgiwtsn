@@ -1,48 +1,42 @@
 # 👋 Salut, moi c’est Luidgi
 
-![Profile views](https://komarev.com/ghpvc/?username=Luidgiwtsn&color=blue)
+💻 Développeur backend junior | Python & APIs  
+🎯 Objectif : devenir développeur full-stack  
 
-💻 Développeur junior passionné par le web et le backend.  
-🎯 Objectif : devenir développeur full-stack.
+![Profile views](https://komarev.com/ghpvc/?username=Luidgiwtsn&color=blue&style=flat)
 
 ---
 
 ## 🚀 À propos de moi
-- 🔭 Je travaille sur des projets web et backend (Python, API, bases de données)  
-- 🌱 J’apprends les technologies backend, API REST et le développement full-stack  
-- ⚡ Intéressé par la modélisation de bases de données et la conception d’API  
-- 🎓 Toujours en apprentissage et amélioration continue  
+- 🔭 Projets backend et Python  
+- 🌱 Apprentissage full-stack (API, bases de données, Flask)  
+- ⚡ Intérêt pour la conception d’API et l’architecture backend  
 
 ---
 
 ## 🛠️ Stack technique
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
 ## 📌 Projets
-- 🔹 **W3C Validator** : Script Python pour valider des fichiers HTML et CSS  
-- 🔹 **Airbnb Database** : Diagramme ER + SQL pour la modélisation d’une base de données  
-- 🔹 **API Python** : Projet backend simple avec Flask (routes pour utilisateurs et logements)
-
-*(Chaque projet possède son propre README détaillé avec instructions et démo)*
+- **Binary Trees** – C, structures de données  
+- **Simple Shell** – Shell Unix minimal  
+- **W3C Validator** – Python script pour HTML/CSS  
+- **Airbnb Database** – SQL et ERD  
+- **API Python** – CRUD utilisateurs & logements  
 
 ---
 
-## 📈 Stats GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luidgiwtsn&show_icons=true&theme=dark)
+## 📊 Stats GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luidgiwtsn&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luidgiwtsn&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Contact
-- ✉️ Email : lwbordeaux@gmail.com  
-- 🔗 [Mon GitHub](https://github.com/Luidgiwtsn)
-- 🔗 [mon linkedin](https://www.linkedin.com/in/luidgi-watson/)
-
----
-
-🔥 *Toujours en train d’apprendre et de construire de nouveaux projets !*
+- ✉️ lwbordeaux@gmail.com  
+- 🔗 [GitHub](https://github.com/Luidgiwtsn)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/luidgi-watson/)
