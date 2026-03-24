@@ -34,6 +34,9 @@
 
 ## 📈 Stats GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luidgiwtsn&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luidgiwtsn&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luidgiwtsn&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Luidgiwtsn&theme=radical)
 
 ---
 
