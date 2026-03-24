@@ -29,7 +29,6 @@
 - 🔹 **Airbnb Database** : Diagramme ER + SQL pour la modélisation d’une base de données  
 - 🔹 **API Python** : Projet backend simple avec Flask (routes pour utilisateurs et logements)
 
-*(Chaque projet possède son propre README détaillé avec instructions et démo)*
 
 ---
 
