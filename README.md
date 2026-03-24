@@ -1,68 +1,48 @@
 # 👋 Salut, moi c’est Luidgi
 
-![Header GIF](https://media.giphy.com/media/26FPy3QZQqGtDcrja/giphy.gif)
+![Profile views](https://komarev.com/ghpvc/?username=Luidgiwtsn&color=blue)
 
-💻 Backend Dev | Python & APIs | Futur Full-Stack  
-🎯 Passion : APIs, bases de données, automation  
-📍 Bordeaux, France  
+💻 Développeur junior passionné par le web et le backend.  
+🎯 Objectif : devenir développeur full-stack.
 
-![Profile views](https://komarev.com/ghpvc/?username=Luidgiwtsn&color=blue&style=flat)
+---
+
+## 🚀 À propos de moi
+- 🔭 Je travaille sur des projets web et backend (Python, API, bases de données)  
+- 🌱 J’apprends les technologies backend, API REST et le développement full-stack  
+- ⚡ Intéressé par la modélisation de bases de données et la conception d’API  
+- 🎓 Toujours en apprentissage et amélioration continue  
 
 ---
 
 ## 🛠️ Stack technique
-
-### 💻 Langages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Outils & Frameworks
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-## 📌 Projets phares
+## 📌 Projets
+- 🔹 **W3C Validator** : Script Python pour valider des fichiers HTML et CSS  
+- 🔹 **Airbnb Database** : Diagramme ER + SQL pour la modélisation d’une base de données  
+- 🔹 **API Python** : Projet backend simple avec Flask (routes pour utilisateurs et logements)
 
-### 🔹 W3C Validator
-Script Python pour valider automatiquement des fichiers HTML et CSS.  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
-
-### 🔹 Airbnb Database
-Conception d’une base de données complète :  
-- Diagrammes ERD  
-- SQL queries
-
-### 🔹 API Python (Flask)
-API REST simple pour la gestion :  
-- Utilisateurs  
-- Logements  
-- Routes CRUD  
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
-
-### 🔹 Holberton Binary Trees & Simple Shell
-Projets C pour la formation : structures de données et shell Unix minimal.
+*(Chaque projet possède son propre README détaillé avec instructions et démo)*
 
 ---
 
-## 📊 Mes statistiques GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luidgiwtsn&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luidgiwtsn&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Luidgiwtsn&theme=tokyonight)
+## 📈 Stats GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luidgiwtsn&show_icons=true&theme=dark)
 
 ---
 
-## 📫 Me contacter
-
+## 📫 Contact
 - ✉️ Email : lwbordeaux@gmail.com  
-- 🔗 [GitHub](https://github.com/Luidgiwtsn)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/luidgi-watson/)
+- 🔗 [Mon GitHub](https://github.com/Luidgiwtsn)
+- 🔗 [mon linkedin](https://www.linkedin.com/in/luidgi-watson/)
 
 ---
 
-⭐ Toujours en train d’apprendre, coder et construire des projets innovants !  
+🔥 *Toujours en train d’apprendre et de construire de nouveaux projets !*
